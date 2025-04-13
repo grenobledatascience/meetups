@@ -12,6 +12,8 @@ https://groups.google.com/g/grenobledatascience/
 
 to get notified about our next talk. 
 
+
 This github is just here to archive slide decks from our presenters.   
+
 
 Gilles, Georgios and Herve
