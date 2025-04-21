@@ -1,6 +1,6 @@
 # Grenoble Data Science meetups
 
-We are a group of volunteers who enjoy discussing about AI, ML and DS.
+We are a group of volunteers who enjoy meeting and chating about AI, ML and DS.
 
 Please visit our web site 
 
