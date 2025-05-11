@@ -4,7 +4,7 @@ We are a group of volunteers who enjoy meeting and chating about AI, ML and DS.
 
 Please visit our web site 
 
-https://sites.google.com/view/grenobledatascience/home
+https://sites.google.com/view/grenobledatascience
 
 and make sure to register at 
 
