@@ -32,4 +32,4 @@ Most presenters are kindly sharing their slide deck with us
 
 [Dec 2023 - Root cause analysis in IT monitoring systems - Charles Assad](https://github.com/grenobledatascience/meetups/blob/main/Root%20cause%20analysis%20in%20IT%20monitoring%20systems%20-%20Charles%20Assad%20-%20Dec%202023.pdf)
 
-[Oct 2023 - CLIP it real - Clement Douarre](https://github.com/grenobledatascience/meetups/blob/main/CLIP%20it%20real%20-%20Clement%20Douarre%20-%20Oct%202023.pptx)
+[Oct 2023 - CLIP it real - Clement Douarre](https://github.com/grenobledatascience/meetups/blob/main/CLIP%20it%20real%20-%20Clement%20Douarre%20-%20Oct%202023.pdf)
