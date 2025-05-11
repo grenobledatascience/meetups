@@ -28,7 +28,7 @@ Most presenters are kindly sharing their slide deck with us
 
 [Oct 2024 - Deep Reinforcement Learning and applications - Chris Reinke](https://github.com/grenobledatascience/meetups/blob/main/Deep%20Reinforcement%20Learning%20and%20applications%20-%20Chris%20Reinke%20-%20Oct%202024.pdf)
 
-[Apr2024 - Fine-grained image recognition - Ahmet Iscen](https://github.com/grenobledatascience/meetups/blob/main/Fine-grained%20image%20recognition%20-%20Ahmet%20Iscen%20-%20Apr%202024.pdf)
+[Apr 2024 - Fine-grained image recognition - Ahmet Iscen](https://github.com/grenobledatascience/meetups/blob/main/Fine-grained%20image%20recognition%20-%20Ahmet%20Iscen%20-%20Apr%202024.pdf)
 
 [Feb 2024 - Adding context to Lexical Search BM25 SPLADE - Stephane CLINCHANT - Carlos Lassance](https://github.com/grenobledatascience/meetups/blob/main/Adding%20context%20to%20Lexical%20Search%20BM25%20SPLADE%20-%20Stephane%20CLINCHANT%20-%20Carlos%20Lassance%20-%20Feb%202024.pdf)
 
