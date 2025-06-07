@@ -22,6 +22,8 @@ Gilles, Georgios and Herve
 
 Most presenters are kindly sharing their slide deck with us
 
+[May 2025 - Revolutionizing Agent Architecture with Logical Foundations - Claude Roux](https://github.com/grenobledatascience/meetups/blob/main/PREDIBAG_Predicate%20based%20Agents%20-%20Claude%20Roux%20-%20May%202025.pdf)
+
 [Apr 2025 - Bayesian inference Basics and application for an engineering structure - Ritesh Gupta](https://github.com/grenobledatascience/meetups/blob/main/Bayesian%20inference%20Basics%20and%20application%20for%20an%20engineering%20structure%20-%20Ritesh%20Gupta%20-%20Apr%202025.pdf)
 
 [Dec 2024 - Building the world largest knowledge graph - Elin Törnquist - Robert Caulk](https://github.com/grenobledatascience/meetups/blob/main/Building%20the%20world%20largest%20knowledge%20graph%20-%20Elin%20T%C3%B6rnquist%20-%20Robert%20Caulk%20-%20Dec%202024.pdf)
