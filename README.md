@@ -22,6 +22,8 @@ Gilles, Georgios and Herve
 
 Most presenters are kindly sharing their slide deck with us
 
+[Sept 2025 - Data-Driven Decision-Making with Optimization Lessons from Industry - Georgios Balikas](https://github.com/grenobledatascience/meetups/blob/main/Data-Driven%20Decision-Making%20with%20Optimization%20Lessons%20from%20Industry%20-%20Sept%202025%20-%20Georgios%20Balikas.pptx)
+
 [May 2025 - Revolutionizing Agent Architecture with Logical Foundations - Claude Roux](https://github.com/grenobledatascience/meetups/blob/main/PREDIBAG_Predicate%20based%20Agents%20-%20Claude%20Roux%20-%20May%202025.pdf)
 
 [Apr 2025 - Bayesian inference Basics and application for an engineering structure - Ritesh Gupta](https://github.com/grenobledatascience/meetups/blob/main/Bayesian%20inference%20Basics%20and%20application%20for%20an%20engineering%20structure%20-%20Ritesh%20Gupta%20-%20Apr%202025.pdf)
