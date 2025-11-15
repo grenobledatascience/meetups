@@ -22,6 +22,8 @@ Gilles, Georgios and Herve
 
 Most presenters are kindly sharing their slide deck with us
 
+[Nov 2025- Efficient online text compression for RAG - Stephane CLINCHANT - Part 1 Provence](https://github.com/grenobledatascience/meetups/blob/main/Efficient%20online%20text%20compression%20for%20RAG%20-%20Stephane%20CLINCHANT%20-%20Nov%202025%20-%20Part1%20-%20Provence.pdf) & [Part 2 - PISCO](https://github.com/grenobledatascience/meetups/blob/main/Efficient%20online%20text%20compression%20for%20RAG%20-%20Stephane%20CLINCHANT%20-%20Nov%202025%20-Part2%20-%20PISCO.pdf)
+
 [Sept 2025 - Data-Driven Decision-Making with Optimization Lessons from Industry - Georgios Balikas](https://github.com/grenobledatascience/meetups/blob/main/Data-Driven%20Decision-Making%20with%20Optimization%20Lessons%20from%20Industry%20-%20Sept%202025%20-%20Georgios%20Balikas.pptx)
 
 [May 2025 - Revolutionizing Agent Architecture with Logical Foundations - Claude Roux](https://github.com/grenobledatascience/meetups/blob/main/PREDIBAG_Predicate%20based%20Agents%20-%20Claude%20Roux%20-%20May%202025.pdf)
