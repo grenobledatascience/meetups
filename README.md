@@ -22,6 +22,8 @@ Gilles, Georgios and Herve
 
 Most presenters are kindly sharing their slide deck with us
 
+[Apr 2026 - Frugal and resposible AI - Elise Pupier & Pierre-Loic Bayart](https://github.com/grenobledatascience/meetups/blob/main/Frugal%20and%20resposible%20AI%20-%20Elise%20Pupier%20Pierre-Loic%20Bayart%20-%20Apr%202026.pdf)
+
 [Feb 2026 - Detecting Deepfakes in the Age of Generative AI - Noemi Roggero](https://github.com/grenobledatascience/meetups/blob/main/Detecting%20Deepfakes%20in%20the%20Age%20of%20Generative%20AI%20-%20Noemi%20Roggero%20-%20Feb%202026.pdf)
 
 [Jan 2026 - From Inception to Volubile The Journey of Voice AI - Julien ROS](https://github.com/grenobledatascience/meetups/blob/main/From%20Inception%20to%20Volubile%20The%20Journey%20of%20Voice%20AI%20-%20Julien%20Ros%20-%20Jan%202026%20.pdf)
