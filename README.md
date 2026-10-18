@@ -22,6 +22,8 @@ Gilles, Georgios and Herve
 
 Most presenters are kindly sharing their slide deck with us
 
+[Sept 2026 - Human Parametric Body Mesh Models - Romain Bregier](https://github.com/grenobledatascience/meetups/blob/main/2026_grenobledatascience_rbregier.pdf)
+
 [May 2026 - Industrialization of LLMs - Matthias Gallé](https://github.com/grenobledatascience/meetups/blob/main/Industrialization%20of%20LLMs%20-%20Matthias%20Gall%C3%A9%20-%20May%202026.pdf)
 
 [Apr 2026 - Frugal and resposible AI - Elise Pupier & Pierre-Loic Bayart](https://github.com/grenobledatascience/meetups/blob/main/Frugal%20and%20resposible%20AI%20-%20Elise%20Pupier%20Pierre-Loic%20Bayart%20-%20Apr%202026.pdf)
