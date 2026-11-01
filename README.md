@@ -22,6 +22,8 @@ Gilles, Georgios and Herve
 
 Most presenters are kindly sharing their slide deck with us
 
+[Oct 2026 - An introduction to the fabulous world of LeRobot - Emmanuel Virot](https://github.com/grenobledatascience/meetups/blob/main/2026-10-29_lerobot_tactile.pdf)
+
 [Sept 2026 - Human Parametric Body Mesh Models - Romain Bregier](https://github.com/grenobledatascience/meetups/blob/main/2026_grenobledatascience_rbregier.pdf)
 
 [May 2026 - Industrialization of LLMs - Matthias Gallé](https://github.com/grenobledatascience/meetups/blob/main/Industrialization%20of%20LLMs%20-%20Matthias%20Gall%C3%A9%20-%20May%202026.pdf)
